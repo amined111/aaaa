@@ -1,3 +1,0 @@
-token=NDk3Nzc2MTEzNDgxODA5OTM4.DplAgA.EoTIdjIsYnLyvA01LzJiy2wWsc8
-owner=485917652120764429
-prefix = A
