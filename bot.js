@@ -1,7 +1,5 @@
 const Discord = require("discord.js");
 const client = new Discord.Client();
-
-const Discord = require('discord.js');
 const devs = ['485917652120764429','312234023781007371'];
 var prefix = "!";
 const adminprefix = "!"
