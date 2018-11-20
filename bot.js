@@ -599,8 +599,8 @@ client.on('message', msg => {
     if(msg.member.hasPermission("MANAGE_MESSAGES")) {
     if (textxt == "") {
         msg.delete().then
-    msg.channel.send("***```Supply A Number 👌```***").then(m => m.delete(3000));
-} else {
+    msg.channel.send("```Supply A Number 👌```").then(m => m.delete(3000));
+} else 
     msg.delete().then
     msg.delete().then
     msg.channel.bulkDelete(textxt);
