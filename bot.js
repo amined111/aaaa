@@ -579,7 +579,6 @@ if (message.content.startsWith(prefix + 'help')) { /// This is The DMS Code Send
    
 `]
     let page = 1;
-
     let embed = new Discord.RichEmbed()
     .setColor('RANDOM')
     .setFooter(`Page ${page} of ${pages.length}`)
